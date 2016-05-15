@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hair Stylist]]></title>
+        <description><![CDATA[Hair Stylist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 01:41:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This is a test]]></title>
+            <description><![CDATA[<article><h1>This is a test</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74371415-c3e7-4870-8e53-a8f7d7ff2ed9.jpg"></article>]]></description>
+            <link>undefinedthis-is-a-test/index.html</link>
+            <guid isPermaLink="false">34d013dd-23ed-49da-a0f4-dfacdaa15963</guid>
+            <pubDate>Sun, 15 May 2016 01:41:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
