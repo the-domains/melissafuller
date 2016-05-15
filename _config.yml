@@ -1,4 +1,4 @@
-name: melissafuller
+name: Melissa Fuller
 favicon: null
 layout_spectrum: 0.6280564309563488
 typography_spectrum: 0.7767972513101995
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.7764272652566433
-  lightness: 0.9394457400776446
-  saturation: 0.2783254391979426
-  rhythmicContrast: 0.373691663146019
+  brandStrength: 0.1875
+  lightness: 0.25
+  saturation: 0.9375
+  rhythmicContrast: 0.75
 purpose: []
