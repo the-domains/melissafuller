@@ -5,17 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-15T01:44:53.329Z'
-dateModified: '2016-05-15T01:41:27.128Z'
+datePublished: '2016-07-19T15:32:44.243Z'
+dateModified: '2016-07-19T15:21:45.787Z'
 title: This is a test
 author: []
 sourcePath: _posts/2016-05-15-this-is-a-test.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: this-is-a-test/index.html
 _type: Article
